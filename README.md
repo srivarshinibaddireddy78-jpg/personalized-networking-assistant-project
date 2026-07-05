@@ -185,43 +185,43 @@ Example Output
 
 ## 🏠 Home Page
 
-![Home Page](images/home_page.png)
+![Home Page](app/images/home_page.png)
 ---
 
 ## 📝 Event Analysis
 
-![Event Analysis](images/event_analysis.png)
+![Event Analysis](app/images/event_analysis.png)
 
 ---
 
 ## 💬 Conversation Starters
 
-![Conversation Starters](images/conversation_starters.png)
+![Conversation Starters](app/images/conversation_starters.png)
 
 ---
 
 ## 🌐 Fact Checker
 
-![Fact Checker](images/fact_checker.png)
+![Fact Checker](app/images/fact_checker.png)
 
 ---
 
 ## 📄 Swagger Documentation
 
-![Swagger Documentation](images/swagger_docs.png)
+![Swagger Documentation](app/images/swagger_docs.png)
 
 ---
 
 ## 📚 Conversation History
 
-![Conversation History](images/conversation_history.png)
+![Conversation History](app/images/conversation_history.png)
 
 ---
 # 🧪 Running Tests
 
 Example Output
 
-![Test Results](images/test_results.png)
+![Test Results](appimages/test_results.png)
 
 # 🔮 Future Enhancements
 
